@@ -38,7 +38,7 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,flutter,androidstudio,arduino,c,cpp,matlab,css,js,flask,flutter,java,mysql,py,raspberrypi,react,tensorflow,vscode" />
   </a>
 </p>
 
