@@ -40,9 +40,8 @@
 ### AI & Machine Learning Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,py,pytorch,tensorflow" />
-    <img src="https://skillicons.dev/icons?i=matlab" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=opencv,py,pytorch,tensorflow,scikit-learn,keras" />
+   </a>
 </p>
 
 ### Web Development Skills
