@@ -32,18 +32,42 @@
   </a>
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">☣ Languages-Frameworks-Tools ☣</h2>
 <br/>
+
+### AI & Machine Learning Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,c,cpp,html,css,js,java,py,react" />
-      <img src="https://skillicons.dev/icons?i=git,androidstudio,arduino,mysql,matlab,flask,raspberrypi,tensorflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,keras" />
+    <img src="https://skillicons.dev/icons?i=matlab" />
   </a>
 </p>
 
-<br/>
+### Web Development Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,vue,flask,express" />
+    <img src="https://skillicons.dev/icons?i=git,mysql,postgresql,github,aws,docker" />
+  </a>
+</p>
+
+### Mobile Development Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,androidstudio,java,kotlin" />
+  </a>
+</p>
+
+### Nuclear Engineering Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=matlab" />
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+</p>
+
 <hr/>
 
 <div align="center">
@@ -60,7 +84,6 @@
   <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
 </p>
 
-
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -76,6 +99,3 @@
 <hr/>
 
 <br/>
-
-
-
