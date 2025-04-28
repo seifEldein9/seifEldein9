@@ -40,7 +40,7 @@
 ### AI & Machine Learning Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,keras" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
     <img src="https://skillicons.dev/icons?i=matlab" />
   </a>
 </p>
