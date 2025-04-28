@@ -49,9 +49,8 @@ jobs:
 
       - name: Generate 3D profile
         uses: yoshi389111/github-profile-3d-contrib@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USER_NAME: "seifEldein9" # Use your GitHub username here explicitly
+        with:
+          USERNAME: "seifEldein9" # Pass username as input directly
 
       - name: Commit & Push the 3D Contribution Graph
         run: |
