@@ -47,8 +47,8 @@
 ### Web Development Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,vue,flask,express" />
-    <img src="https://skillicons.dev/icons?i=git,mysql,postgresql,github,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,express" />
+    <img src="https://skillicons.dev/icons?i=git,mysql,postgresql,github,docker" />
   </a>
 </p>
 
