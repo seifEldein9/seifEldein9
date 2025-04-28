@@ -56,9 +56,7 @@
 
 <hr/>
 <!--   profile-green-animate -->
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
-</p>
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
