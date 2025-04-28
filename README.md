@@ -6,7 +6,6 @@
   
 <h3 align="center">Quantum software developer</h3>
 
-
 <br/>
 
 <div align="center">
