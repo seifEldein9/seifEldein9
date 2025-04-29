@@ -9,11 +9,10 @@
 <br/>
 
 <div align="center">
-
-💻 Machine Learning Engineer  
-☣ Specialized in Nuclear Reactor Design  
-💻 Desktop Application Developer  
-💻 Web Developer  
+  
+🎓 High School Student (Expected Graduation 2025)<br/>
+📜 Master's in Sustainable Development (Nuclear Energy Focus)<br/>
+💻 Professional Developer with 4+ Years Experience
 
 </div>
 
@@ -33,17 +32,39 @@
 
 ---
 
-## ☣ Languages - Frameworks - Tools ☣
+## 👨💻 Professional Overview
+**Multi-disciplinary Developer** specializing in:
+- 🤖 Machine Learning & Data Analysis Engineering
+- 🖥️ Full Stack Development (MERN Stack)
+- 🎮 Game Development (Unity)
+- 🎨 UI/UX Design
+- ☢️ Nuclear Energy Applications in Sustainable Development
+
+**Future Focus:** Advancing Quantum Computing through innovative programming approaches including QTSP algorithm development and Psilab simulations
+
+---
+
+## ☣ Technical Arsenal
 
 ### 🧠 AI & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,py,pytorch,tensorflow,scikit-learn,keras" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,opencv,scikit-learn" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Web Development Ecosystem
+**Frontend Mastery:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,express" />
-  <img src="https://skillicons.dev/icons?i=git,mysql,postgresql,github,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,jquery,bootstrap" />
+</p>
+
+**Backend Expertise:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql,mongodb,postgresql,mysql" />
+</p>
+
+**DevOps & Tools:**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel" />
 </p>
 
 ### 📱 Mobile Development
@@ -51,35 +72,32 @@
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,java,kotlin" />
 </p>
 
-### ☢ Nuclear Engineering
+### ☢ Nuclear Engineering Toolkit
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=matlab,python" />
+  <img src="https://skillicons.dev/icons?i=matlab,py,unity,raspberrypi" />
 </p>
 
 ---
 
+## 🐍 Contribution Dynamics
 <div align="center">
-  <h2>🐍 My Contributions</h2>
   <img src="https://raw.githubusercontent.com/seifEldein9/seifEldein9/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
 
-## ⚡ GitHub Stats
+## ⚡ GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/seifEldein9">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seifEldein9&theme=radical" alt="GitHub Contribution"/>
-  </a>
-</p>
+### 📊 Profile Breakdown
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seifEldein9&theme=radical)](https://github.com/seifEldein9)
 
+### 📈 Activity Metrics
 <div align="center">
   <a href="https://github.com/seifEldein9">
-    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=seifEldein9&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="195px" width="49%"/>
-  </a>
-  <a href="https://github.com/seifEldein9">
-    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=seifEldein9&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="195px" width="49%"/>
+    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=seifEldein9&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%"/>
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=seifEldein9&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" width="49%"/>
   </a>
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seifEldein9&custom_title=Seif's%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+### 📆 Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seifEldein9&custom_title=Seif's%20Development%20Activity&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
