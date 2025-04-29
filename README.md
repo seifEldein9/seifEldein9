@@ -1,19 +1,23 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=seifEldein9" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+☢;+I'm+Seif+Eldein;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+☢;+I'm+Seif+Eldein;" />
 </h1>
 
-<h3 align="center">Quantum Software Developer | Nuclear Engineering Specialist</h3>
+<h3 align="center">Quantum Software Developer</h3>
+
+<br/>
 
 <div align="center">
-  <br/>
-  💻 Full-Stack Developer | Machine Learning Engineer
-  <br/>
-  ☣️ Nuclear Reactor Design Expert
-  <br/>
-  📱 Mobile App Developer (Android & Flutter)
+
+💻 Machine Learning Engineer  
+☣ Specialized in Nuclear Reactor Design  
+💻 Desktop Application Developer  
+💻 Web Developer  
+
 </div>
+
+<br/>
 
 <div align="center"> 
   <a href="mailto:seifelden.def@gmail.com">
@@ -23,52 +27,48 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://seifeldein9.github.io/Portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=-for-the-badge&logo=todoist&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
-<hr/>
+---
 
-<h2 align="center">🛠️ Tech Stack 🛠️</h2>
+## ☣ Languages - Frameworks - Tools ☣
 
-### 🤖 AI/ML
+### 🧠 AI & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,keras,opencv,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=opencv,py,pytorch,tensorflow,scikit-learn,keras" />
 </p>
 
-### 🌐 Web Dev
+### 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,express" />
+  <img src="https://skillicons.dev/icons?i=git,mysql,postgresql,github,docker" />
 </p>
 
-### 📱 Mobile Dev
+### 📱 Mobile Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,androidstudio,java,kotlin" />
 </p>
 
-### ☢️ Nuclear Engineering
+### ☢ Nuclear Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=matlab,py,cpp" />
+  <img src="https://skillicons.dev/icons?i=matlab,python" />
 </p>
 
-### 🛠️ DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux" />
-</p>
+---
 
-<hr/>
-
-<h2 align="center">📈 GitHub Stats 📈</h2>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=seifEldein9&theme=react&border_radius=10" />
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=seifEldein9&show_icons=true&theme=react&border_radius=10" />
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifEldein9&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" />
+  <h2>🐍 My Contributions</h2>
+  <img src="https://raw.githubusercontent.com/seifEldein9/seifEldein9/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
 </div>
 
-<hr/>
+---
 
+## ⚡ Stats
 <div align="center">
-  <h2>🐍 Contribution Flow 🐍</h2>
-  <img src="https://raw.githubusercontent.com/seifEldein9/seifEldein9/output/github-contribution-grid-snake.svg" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=seifEldein9&count_private=true&theme=react&border_radius=10" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=seifEldein9&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <br/>
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifEldein9&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" />
 </div>
