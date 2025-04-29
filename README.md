@@ -48,7 +48,7 @@
 
 ### 🧠 AI & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,keras,opencv,scikit-learn" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,raspberrypi,opencv,scikit-learn" />
 </p>
 
 ### 🌐 Web Development Ecosystem
