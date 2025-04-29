@@ -60,15 +60,26 @@
 
 <div align="center">
   <h2>🐍 My Contributions</h2>
-  <img src="https://raw.githubusercontent.com/seifEldein9/seifEldein9/output/github-contribution-grid-snake.svg" alt="snake eating my contributions" />
+  <img src="https://raw.githubusercontent.com/seifEldein9/seifEldein9/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
 ---
 
-## ⚡ Stats
+## ⚡ GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/seifEldein9">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seifEldein9&theme=radical" alt="GitHub Contribution"/>
+  </a>
+</p>
+
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=seifEldein9&count_private=true&theme=react&border_radius=10" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=seifEldein9&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-  <br/>
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifEldein9&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+  <a href="https://github.com/seifEldein9">
+    <img alt="GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=seifEldein9&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="195px" width="49%"/>
+  </a>
+  <a href="https://github.com/seifEldein9">
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=seifEldein9&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="195px" width="49%"/>
+  </a>
 </div>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=seifEldein9&custom_title=Seif's%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
