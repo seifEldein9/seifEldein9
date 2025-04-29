@@ -74,7 +74,7 @@
 
 ### ☢ Nuclear Engineering Toolkit
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=matlab,py,unity,raspberrypi" />
+  <img src="https://skillicons.dev/icons?i=matlab,py" />
 </p>
 
 ---
